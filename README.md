@@ -71,6 +71,10 @@ docker-compose down
 - Implement continuous integration (CI) and continuous deployment (CD) pipelines using Jenkins or GitHub Actions.
 - Deploy the application to a cloud platform like AWS, GCP, or Azure.
 
+## Mideum Article Link
+
+- [link](https://medium.com/@nomannayeem/mlops-for-beginners-to-advanced-from-model-building-to-scalable-deployment-using-flask-and-docker-ec65bd8cf07f)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
