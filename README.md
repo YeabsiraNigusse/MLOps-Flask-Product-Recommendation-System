@@ -74,6 +74,7 @@ docker-compose down
 ## Mideum Article Link
 
 - [link](https://medium.com/@nomannayeem/mlops-for-beginners-to-advanced-from-model-building-to-scalable-deployment-using-flask-and-docker-ec65bd8cf07f)
+- another [link](https://towardsdatascience.com/there-are-two-very-different-ways-to-deploy-ml-models-heres-both-ce2e97c7b9b1)
 
 ## License
 
